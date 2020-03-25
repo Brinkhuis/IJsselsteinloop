@@ -1,0 +1,2483 @@
+plaatsnaam,gemeente
+Amsterdam,Amsterdam
+Diemen,Diemen
+Amsterdam-Duivendrecht,Ouder-Amstel
+Duivendrecht,Ouder-Amstel
+Schiphol,Haarlemmermeer
+Schiphol-Rijk,Haarlemmermeer
+Landsmeer,Landsmeer
+Den Ilp,Landsmeer
+Volendam,Edam-Volendam
+Edam,Edam-Volendam
+Monnickendam,Waterland
+Katwoude,Waterland
+Broek in Waterland,Waterland
+Zuiderwoude,Waterland
+Uitdam,Waterland
+Marken,Waterland
+Zwanenburg,Haarlemmermeer
+Halfweg,Haarlemmermeer
+Badhoevedorp,Haarlemmermeer
+Lijnden,Haarlemmermeer
+Amstelveen,Amstelveen
+Ouderkerk aan de Amstel,Ouder-Amstel
+Hilversum,Hilversum
+Loosdrecht,Wijdemeren
+Kortenhoef,Wijdemeren
+'s-Graveland,Wijdemeren
+Ankeveen,Wijdemeren
+Laren,Laren
+Blaricum,Blaricum
+Huizen,Huizen
+Almere,Almere
+Weesp,Weesp
+Abcoude,De Ronde Venen
+Nigtevecht,Stichtse Vecht
+Nederhorst den Berg,Wijdemeren
+Baambrugge,De Ronde Venen
+Muiden,Gooise Meren
+Muiderberg,Gooise Meren
+Bussum,Gooise Meren
+Naarden,Gooise Meren
+Uithoorn,Uithoorn
+De Kwakel,Uithoorn
+de Hoef,De Ronde Venen
+Amstelhoek,De Ronde Venen
+Vrouwenakker,Nieuwkoop
+Aalsmeer,Aalsmeer
+Kudelstaart,Aalsmeer
+Rijsenhout,Haarlemmermeer
+Aalsmeerderbrug,Haarlemmermeer
+Rozenburg,Haarlemmermeer
+Oude Meer,Haarlemmermeer
+Purmerend,Purmerend
+Purmerland,Landsmeer
+Ilpendam,Waterland
+Watergang,Waterland
+Wijdewormer,Wormerland
+Westbeemster,Beemster
+Zuidoostbeemster,Beemster
+Middenbeemster,Beemster
+Noordbeemster,Beemster
+Kwadijk,Edam-Volendam
+Middelie,Edam-Volendam
+Warder,Edam-Volendam
+Oosthuizen,Edam-Volendam
+Beets,Edam-Volendam
+Schardam,Edam-Volendam
+Hobrede,Edam-Volendam
+Purmer,Edam-Volendam
+Purmer,Waterland
+De Rijp,Alkmaar
+Graft,Alkmaar
+Noordeinde,Alkmaar
+West-Graftdijk,Alkmaar
+Oost-Graftdijk,Alkmaar
+Starnmeer,Alkmaar
+de Woude,Castricum
+Zaandam,Zaanstad
+Oostzaan,Oostzaan
+Wormerveer,Zaanstad
+Westknollendam,Zaanstad
+Wormer,Wormerland
+Oostknollendam,Wormerland
+Markenbinnen,Alkmaar
+Koog aan de Zaan,Zaanstad
+Zaandijk,Zaanstad
+Jisp,Wormerland
+Westzaan,Zaanstad
+Krommenie,Zaanstad
+Assendelft,Zaanstad
+Enkhuizen,Enkhuizen
+Venhuizen,Drechterland
+Hem,Drechterland
+Wijdenes,Drechterland
+Oosterleek,Drechterland
+Bovenkarspel,Stede Broec
+Grootebroek,Stede Broec
+Lutjebroek,Stede Broec
+Hoogkarspel,Drechterland
+Westwoud,Drechterland
+Andijk,Medemblik
+Hoorn,Hoorn
+Oudendijk,Koggenland
+Avenhorn,Koggenland
+Scharwoude,Koggenland
+Schermerhorn,Alkmaar
+Spierdijk,Koggenland
+Ursem,Koggenland
+Ursem,Alkmaar
+Berkhout,Koggenland
+De Goorn,Koggenland
+Zuidermeer,Koggenland
+Benningbroek,Medemblik
+Sijbekarspel,Medemblik
+Abbekerk,Medemblik
+Lambertschaag,Medemblik
+De Weere,Opmeer
+Medemblik,Medemblik
+Opperdoes,Medemblik
+Twisk,Medemblik
+Oostwoud,Medemblik
+Midwoud,Medemblik
+Zwaagdijk-Oost,Medemblik
+Zwaagdijk-West,Medemblik
+Wognum,Medemblik
+Nibbixwoud,Medemblik
+Zwaag,Hoorn
+Hauwert,Medemblik
+Wervershoof,Medemblik
+Blokker,Hoorn
+Oosterblokker,Drechterland
+Schellinkhout,Drechterland
+Heerhugowaard,Heerhugowaard
+Broek op Langedijk,Langedijk
+Hensbroek,Koggenland
+Obdam,Koggenland
+Spanbroek,Opmeer
+Opmeer,Opmeer
+Hoogwoud,Opmeer
+Aartswoud,Opmeer
+Zuid-Scharwoude,Langedijk
+Noord-Scharwoude,Langedijk
+Oudkarspel,Langedijk
+Winkel,Hollands Kroon
+Lutjewinkel,Hollands Kroon
+Nieuwe Niedorp,Hollands Kroon
+Oude Niedorp,Hollands Kroon
+'t Veld,Hollands Kroon
+Zijdewind,Hollands Kroon
+Waarland,Schagen
+Schagen,Schagen
+Sint Maarten,Schagen
+Dirkshorn,Schagen
+Tuitjenhorn,Schagen
+Warmenhuizen,Schagen
+Schagerbrug,Schagen
+Sint Maartensbrug,Schagen
+Sint Maartensvlotbrug,Schagen
+Burgerbrug,Schagen
+Petten,Schagen
+'t Zand,Schagen
+Oudesluis,Schagen
+Callantsoog,Schagen
+Anna Paulowna,Hollands Kroon
+Breezand,Hollands Kroon
+Wieringerwaard,Hollands Kroon
+Kolhorn,Hollands Kroon
+Barsingerhorn,Hollands Kroon
+Haringhuizen,Hollands Kroon
+Wieringerwerf,Hollands Kroon
+Kreileroord,Hollands Kroon
+Slootdorp,Hollands Kroon
+Middenmeer,Hollands Kroon
+Hippolytushoef,Hollands Kroon
+Westerland,Hollands Kroon
+Den Oever,Hollands Kroon
+Den Helder,Den Helder
+Julianadorp,Den Helder
+Huisduinen,Den Helder
+Den Burg,Texel
+Oudeschild,Texel
+De Waal,Texel
+Oosterend,Texel
+De Cocksdorp,Texel
+De Koog,Texel
+Den Hoorn,Texel
+Woerden,Woerden
+Alkmaar,Alkmaar
+Sint Pancras,Langedijk
+Oudorp,Alkmaar
+Koedijk,Alkmaar
+Koedijk,Langedijk
+Stompetoren,Alkmaar
+Oterleek,Alkmaar
+Grootschermer,Alkmaar
+Driehuizen,Alkmaar
+Zuidschermer,Alkmaar
+Heiloo,Heiloo
+Bergen (NH),Bergen (NH.)
+Bergen aan Zee,Bergen (NH.)
+Schoorl,Bergen (NH.)
+Groet,Bergen (NH.)
+Castricum,Castricum
+Limmen,Castricum
+Uitgeest,Uitgeest
+Akersloot,Castricum
+Egmond aan Zee,Bergen (NH.)
+Egmond aan den Hoef,Bergen (NH.)
+Egmond-Binnen,Bergen (NH.)
+Beverwijk,Beverwijk
+Wijk aan Zee,Beverwijk
+Velsen-Noord,Velsen
+Heemskerk,Heemskerk
+IJmuiden,Velsen
+Velsen-Zuid,Velsen
+Driehuis NH,Velsen
+Velserbroek,Velsen
+Haarlem,Haarlem
+Zandvoort,Zandvoort
+Overveen,Bloemendaal
+Bloemendaal,Bloemendaal
+Spaarndam gem. Haarlem,Haarlem
+Spaarndam,Haarlemmermeer
+Haarlemmerliede,Haarlemmermeer
+Santpoort-Noord,Velsen
+Santpoort-Zuid,Velsen
+Heemstede,Heemstede
+Aerdenhout,Bloemendaal
+Vogelenzang,Bloemendaal
+Bentveld,Zandvoort
+Bennebroek,Bloemendaal
+Hoofddorp,Haarlemmermeer
+Zwaanshoek,Haarlemmermeer
+Vijfhuizen,Haarlemmermeer
+Cruquius,Haarlemmermeer
+Boesingheliede,Haarlemmermeer
+Beinsdorp,Haarlemmermeer
+Nieuw-Vennep,Haarlemmermeer
+Burgerveen,Haarlemmermeer
+Leimuiderbrug,Haarlemmermeer
+Weteringbrug,Haarlemmermeer
+Abbenes,Haarlemmermeer
+Buitenkaag,Haarlemmermeer
+Kaag,Kaag en Braassem
+Lisse,Lisse
+Lisserbroek,Haarlemmermeer
+Sassenheim,Teylingen
+Hillegom,Hillegom
+De Zilk,Noordwijk
+Noordwijk,Noordwijk
+Noordwijkerhout,Noordwijk
+Voorhout,Teylingen
+Katwijk,Katwijk
+Rijnsburg,Katwijk
+Valkenburg,Katwijk
+Wassenaar,Wassenaar
+Voorschoten,Voorschoten
+Leidschendam,Leidschendam-Voorburg
+Voorburg,Leidschendam-Voorburg
+Rijswijk,Rijswijk
+Wateringen,Westland
+Kwintsheul,Westland
+Leiden,Leiden
+Oegstgeest,Oegstgeest
+Leiderdorp,Leiderdorp
+Hoogmade,Kaag en Braassem
+Warmond,Teylingen
+Roelofarendsveen,Kaag en Braassem
+Oud Ade,Kaag en Braassem
+Rijpwetering,Kaag en Braassem
+Nieuwe Wetering,Kaag en Braassem
+Oude Wetering,Kaag en Braassem
+Zoeterwoude,Zoeterwoude
+Hazerswoude-Dorp,Alphen aan den Rijn
+Hazerswoude-Rijndijk,Alphen aan den Rijn
+Koudekerk aan den Rijn,Alphen aan den Rijn
+Alphen aan den Rijn,Alphen aan den Rijn
+Bodegraven,Bodegraven-Reeuwijk
+Nieuwerbrug aan den Rijn,Bodegraven-Reeuwijk
+Nieuwkoop,Nieuwkoop
+Noorden,Nieuwkoop
+Zevenhoven,Nieuwkoop
+Nieuwveen,Nieuwkoop
+Aarlanderveen,Alphen aan den Rijn
+Leimuiden,Kaag en Braassem
+Ter Aar,Nieuwkoop
+Rijnsaterwoude,Kaag en Braassem
+Zwammerdam,Alphen aan den Rijn
+Woubrugge,Kaag en Braassem
+'s-Gravenhage,'s-Gravenhage
+Delft,Delft
+Nootdorp,Pijnacker-Nootdorp
+Den Hoorn,Midden-Delfland
+Schipluiden,Midden-Delfland
+Pijnacker,Pijnacker-Nootdorp
+Delfgauw,Pijnacker-Nootdorp
+Berkel en Rodenrijs,Lansingerland
+Bergschenhoek,Lansingerland
+Bleiswijk,Lansingerland
+Naaldwijk,Westland
+Honselersdijk,Westland
+Maasdijk,Westland
+De Lier,Westland
+Monster,Westland
+Ter Heijde,Westland
+Poeldijk,Westland
+'s-Gravenzande,Westland
+Zoetermeer,Zoetermeer
+Benthuizen,Alphen aan den Rijn
+Gelderswoude,Zoeterwoude
+Waddinxveen,Waddinxveen
+Moerkapelle,Zuidplas
+Zevenhuizen,Zuidplas
+Boskoop,Alphen aan den Rijn
+Gouda,Gouda
+Reeuwijk,Bodegraven-Reeuwijk
+Stolwijk,Krimpenerwaard
+Berkenwoude,Krimpenerwaard
+Gouderak,Krimpenerwaard
+Moordrecht,Zuidplas
+Haastrecht,Krimpenerwaard
+Vlist,Krimpenerwaard
+Bergambacht,Krimpenerwaard
+Ammerstol,Krimpenerwaard
+Schoonhoven,Krimpenerwaard
+Capelle aan den IJssel,Capelle aan den IJssel
+Nieuwerkerk aan den IJssel,Zuidplas
+Krimpen aan den IJssel,Krimpen aan den IJssel
+Krimpen aan de Lek,Krimpenerwaard
+Ouderkerk aan den IJssel,Krimpenerwaard
+Lekkerkerk,Krimpenerwaard
+Alblasserdam,Alblasserdam
+Nieuw-Lekkerland,Molenlanden
+Streefkerk,Molenlanden
+Kinderdijk,Molenlanden
+Groot-Ammers,Molenlanden
+Nieuwpoort,Molenlanden
+Langerak,Molenlanden
+Waal,Molenlanden
+Oud-Alblas,Molenlanden
+Bleskensgraaf ca,Molenlanden
+Molenaarsgraaf,Molenlanden
+Brandwijk,Molenlanden
+Ottoland,Molenlanden
+Goudriaan,Molenlanden
+Ridderkerk,Ridderkerk
+Hendrik-Ido-Ambacht,Hendrik-Ido-Ambacht
+Barendrecht,Barendrecht
+Heerjansdam,Zwijndrecht
+Rotterdam,Rotterdam
+Schiedam,Schiedam
+Vlaardingen,Vlaardingen
+Maassluis,Maassluis
+Hoek van Holland,Rotterdam
+Maasland,Midden-Delfland
+Rhoon,Albrandswaard
+Rotterdam-Albrandswaard,Albrandswaard
+Poortugaal,Albrandswaard
+Rozenburg,Rotterdam
+Hoogvliet Rotterdam,Rotterdam
+Pernis Rotterdam,Rotterdam
+Vondelingenplaat Rotterdam,Rotterdam
+Botlek Rotterdam,Rotterdam
+Europoort Rotterdam,Rotterdam
+Maasvlakte Rotterdam,Rotterdam
+Spijkenisse,Nissewaard
+Hekelingen,Nissewaard
+Geervliet,Nissewaard
+Simonshaven,Nissewaard
+Zuidland,Nissewaard
+Abbenbroek,Nissewaard
+Heenvliet,Nissewaard
+Hellevoetsluis,Hellevoetsluis
+Oudenhoorn,Hellevoetsluis
+Brielle,Brielle
+Oostvoorne,Westvoorne
+Tinte,Westvoorne
+Rockanje,Westvoorne
+Vierpolders,Brielle
+Zwartewaal,Brielle
+Middelharnis,Goeree-Overflakkee
+Stad aan 't Haringvliet,Goeree-Overflakkee
+Nieuwe-Tonge,Goeree-Overflakkee
+Sommelsdijk,Goeree-Overflakkee
+Dirksland,Goeree-Overflakkee
+Melissant,Goeree-Overflakkee
+Herkingen,Goeree-Overflakkee
+Stellendam,Goeree-Overflakkee
+Goedereede,Goeree-Overflakkee
+Ouddorp,Goeree-Overflakkee
+Oude-Tonge,Goeree-Overflakkee
+Achthuizen,Goeree-Overflakkee
+Ooltgensplaat,Goeree-Overflakkee
+Den Bommel,Goeree-Overflakkee
+Oud-Beijerland,Hoeksche Waard
+Nieuw-Beijerland,Hoeksche Waard
+Piershil,Hoeksche Waard
+Goudswaard,Hoeksche Waard
+Mijnsheerenland,Hoeksche Waard
+Westmaas,Hoeksche Waard
+Heinenoord,Hoeksche Waard
+Numansdorp,Hoeksche Waard
+Zuid-Beijerland,Hoeksche Waard
+Klaaswaal,Hoeksche Waard
+Strijen,Hoeksche Waard
+Strijensas,Hoeksche Waard
+Mookhoek,Hoeksche Waard
+'s-Gravendeel,Hoeksche Waard
+Puttershoek,Hoeksche Waard
+Maasdam,Hoeksche Waard
+Dordrecht,Dordrecht
+Zwijndrecht,Zwijndrecht
+Papendrecht,Papendrecht
+Sliedrecht,Sliedrecht
+Wijngaarden,Molenlanden
+Hardinxveld-Giessendam,Hardinxveld-Giessendam
+Giessenburg,Molenlanden
+IJsselstein,IJsselstein
+Benschop,Lopik
+Lopik,Lopik
+Lopikerkapel,Lopik
+Jaarsveld,Lopik
+Polsbroek,Lopik
+Montfoort,Montfoort
+Oudewater,Oudewater
+Snelrewaard,Oudewater
+Nieuwegein,Nieuwegein
+Vleuten,Utrecht
+De Meern,Utrecht
+Haarzuilens,Utrecht
+Linschoten,Montfoort
+Papekop,Oudewater
+Driebruggen,Bodegraven-Reeuwijk
+Waarder,Bodegraven-Reeuwijk
+Hekendorp,Oudewater
+Kamerik,Woerden
+Zegveld,Woerden
+Harmelen,Woerden
+Utrecht,Utrecht
+Maarssen,Stichtse Vecht
+Oud Zuilen,Stichtse Vecht
+Tienhoven,Stichtse Vecht
+Westbroek,De Bilt
+Breukelen,Stichtse Vecht
+Breukeleveen,Wijdemeren
+Nieuwer Ter Aa,Stichtse Vecht
+Kockengen,Stichtse Vecht
+Nieuwersluis,Stichtse Vecht
+Loenen aan de Vecht,Stichtse Vecht
+Vreeland,Stichtse Vecht
+Loenersloot,Stichtse Vecht
+Mijdrecht,De Ronde Venen
+Vinkeveen,De Ronde Venen
+Waverveen,De Ronde Venen
+Wilnis,De Ronde Venen
+Woerdense Verlaat,Nieuwkoop
+Zeist,Zeist
+Austerlitz,Zeist
+Huis ter Heide,Zeist
+Bilthoven,De Bilt
+De Bilt,De Bilt
+Den Dolder,Zeist
+Bosch en Duin,Zeist
+Groenekan,De Bilt
+Maartensdijk,De Bilt
+Hollandsche Rading,De Bilt
+Baarn,Baarn
+Lage Vuursche,Baarn
+Bunschoten-Spakenburg,Bunschoten
+Eemdijk,Bunschoten
+Eemnes,Eemnes
+Soest,Soest
+Soesterberg,Soest
+Barneveld,Barneveld
+Kootwijkerbroek,Barneveld
+Kootwijk,Barneveld
+Stroe,Barneveld
+Voorthuizen,Barneveld
+Terschuur,Barneveld
+Zwartebroek,Barneveld
+Achterveld,Leusden
+Achterveld,Barneveld
+De Glind,Barneveld
+Amersfoort,Amersfoort
+Hoogland,Amersfoort
+Hooglanderveen,Amersfoort
+Leusden,Leusden
+Stoutenburg,Leusden
+Stoutenburg Noord,Amersfoort
+Harderwijk,Harderwijk
+Hierden,Harderwijk
+Ermelo,Ermelo
+Nijkerk,Nijkerk
+Nijkerkerveen,Nijkerk
+Hoevelaken,Nijkerk
+Putten,Putten
+Garderen,Barneveld
+Uddel,Apeldoorn
+Zeewolde,Zeewolde
+Veenendaal,Veenendaal
+Rhenen,Rhenen
+Elst Ut,Rhenen
+Scherpenzeel,Scherpenzeel
+Renswoude,Renswoude
+Woudenberg,Woudenberg
+Doorn,Utrechtse Heuvelrug
+Cothen,Wijk bij Duurstede
+Langbroek,Wijk bij Duurstede
+Maarn,Utrechtse Heuvelrug
+Maarsbergen,Utrechtse Heuvelrug
+Leersum,Utrechtse Heuvelrug
+Amerongen,Utrechtse Heuvelrug
+Overberg,Utrechtse Heuvelrug
+Wijk bij Duurstede,Wijk bij Duurstede
+Driebergen-Rijsenburg,Utrechtse Heuvelrug
+Bunnik,Bunnik
+Odijk,Bunnik
+Werkhoven,Bunnik
+Ossenwaard,Vijfheerenlanden
+Houten,Houten
+'t Goy,Houten
+Schalkwijk,Houten
+Tull en 't Waal,Houten
+Tiel,Tiel
+Zoelen,Buren
+Kerk-Avezaath,Buren
+Kapel Avezaath,Tiel
+Wadenoijen,Tiel
+Kapel-Avezaath,Buren
+Maurik,Buren
+Rijswijk (GLD),Buren
+Eck en Wiel,Buren
+Ingen,Buren
+Ommeren,Buren
+Lienden,Buren
+Kesteren,Neder-Betuwe
+Opheusden,Neder-Betuwe
+Ochten,Neder-Betuwe
+IJzendoorn,Neder-Betuwe
+Echteld,Neder-Betuwe
+Ophemert,West Betuwe
+Zennewijnen,Tiel
+Heesselt,West Betuwe
+Varik,West Betuwe
+Culemborg,Culemborg
+Zoelmond,Buren
+Beusichem,Buren
+Asch,Buren
+Buren,Buren
+Erichem,Buren
+Ravenswaaij,Buren
+Everdingen,Vijfheerenlanden
+Zijderveld,Vijfheerenlanden
+Hagestein,Vijfheerenlanden
+Hoef en Haag,Vijfheerenlanden
+Hei- en Boeicop,Vijfheerenlanden
+Lexmond,Vijfheerenlanden
+Vianen,Vijfheerenlanden
+Leerdam,Vijfheerenlanden
+Schoonrewoerd,Vijfheerenlanden
+Asperen,West Betuwe
+Acquoy,West Betuwe
+Rhenoy,West Betuwe
+Beesd,West Betuwe
+Gellicum,West Betuwe
+Rumpt,West Betuwe
+Enspijk,West Betuwe
+Deil,West Betuwe
+Heukelum,West Betuwe
+Oosterwijk,Vijfheerenlanden
+Herwijnen,West Betuwe
+Hellouw,West Betuwe
+Haaften,West Betuwe
+Tuil,West Betuwe
+Waardenburg,West Betuwe
+Neerijnen,West Betuwe
+Opijnen,West Betuwe
+Est,West Betuwe
+Geldermalsen,West Betuwe
+Meteren,West Betuwe
+Tricht,West Betuwe
+Buurmalsen,West Betuwe
+Gorinchem,Gorinchem
+Schelluinen,Molenlanden
+Spijk,West Betuwe
+Dalem,Gorinchem
+Vuren,West Betuwe
+Hoogblokland,Molenlanden
+Hoornaar,Molenlanden
+Noordeloos,Molenlanden
+Meerkerk,Vijfheerenlanden
+Ameide,Vijfheerenlanden
+Tienhoven aan de Lek,Vijfheerenlanden
+Arkel,Molenlanden
+Nieuwland,Vijfheerenlanden
+Leerbroek,Vijfheerenlanden
+Kedichem,Vijfheerenlanden
+Werkendam,Altena
+Sleeuwijk,Altena
+Nieuwendijk,Altena
+Wijk en Aalburg,Altena
+Veen,Altena
+Genderen,Altena
+Eethen,Altena
+Drongelen,Altena
+Meeuwen,Altena
+Babyloniënbroek,Altena
+Dussen,Altena
+Hank,Altena
+Andel,Altena
+Giessen,Altena
+Rijswijk (NB),Altena
+Woudrichem,Altena
+Almkerk,Altena
+Waardhuizen,Altena
+Uitwijk,Altena
+Zierikzee,Schouwen-Duiveland
+Ouwerkerk,Schouwen-Duiveland
+Nieuwerkerk,Schouwen-Duiveland
+Oosterland,Schouwen-Duiveland
+Sirjansland,Schouwen-Duiveland
+Bruinisse,Schouwen-Duiveland
+Dreischor,Schouwen-Duiveland
+Zonnemaire,Schouwen-Duiveland
+Noordgouwe,Schouwen-Duiveland
+Brouwershaven,Schouwen-Duiveland
+Kerkwerve,Schouwen-Duiveland
+Scharendijke,Schouwen-Duiveland
+Ellemeet,Schouwen-Duiveland
+Renesse,Schouwen-Duiveland
+Noordwelle,Schouwen-Duiveland
+Serooskerke,Schouwen-Duiveland
+Burgh-Haamstede,Schouwen-Duiveland
+Middelburg,Middelburg
+Nieuw- en Sint Joosland,Middelburg
+Arnemuiden,Middelburg
+Veere,Veere
+Gapinge,Veere
+Serooskerke,Veere
+Vrouwenpolder,Veere
+Oostkapelle,Veere
+Domburg,Veere
+Westkapelle,Veere
+Aagtekerke,Veere
+Grijpskerke,Veere
+Meliskerke,Veere
+Koudekerke,Veere
+Biggekerke,Veere
+Zoutelande,Veere
+Vlissingen,Vlissingen
+Oost-Souburg,Vlissingen
+Ritthem,Vlissingen
+Yerseke,Reimerswaal
+Rilland,Reimerswaal
+Krabbendijke,Reimerswaal
+Waarde,Reimerswaal
+Oostdijk,Reimerswaal
+Kruiningen,Reimerswaal
+Hansweert,Reimerswaal
+Kapelle,Kapelle
+Schore,Kapelle
+Wemeldinge,Kapelle
+'s-Gravenpolder,Borsele
+Hoedekenskerke,Borsele
+Kwadendamme,Borsele
+Baarland,Borsele
+Oudelande,Borsele
+Ellewoutsdijk,Borsele
+Driewegen,Borsele
+Ovezande,Borsele
+Nisse,Borsele
+'s-Heer Abtskerke,Borsele
+Heinkenszand,Borsele
+'s-Heerenhoek,Borsele
+Borssele,Borsele
+Nieuwdorp,Borsele
+Lewedorp,Borsele
+'s-Heer Arendskerke,Goes
+Goes,Goes
+Wolphaartsdijk,Goes
+'s-Heer Hendrikskinderen,Goes
+Kattendijke,Goes
+Wilhelminadorp,Goes
+Kloetinge,Goes
+Kloetinge,Kapelle
+Kortgene,Noord-Beveland
+Kats,Noord-Beveland
+Colijnsplaat,Noord-Beveland
+Wissenkerke,Noord-Beveland
+Kamperland,Noord-Beveland
+Geersdijk,Noord-Beveland
+Oostburg,Sluis
+Groede,Sluis
+Nieuwvliet,Sluis
+Zuidzande,Sluis
+Cadzand,Sluis
+Schoondijke,Sluis
+Waterlandkerkje,Sluis
+Breskens,Sluis
+Hoofdplaat,Sluis
+IJzendijke,Sluis
+Biervliet,Terneuzen
+Biervliet,Sluis
+Sluis,Sluis
+Retranchement,Sluis
+Aardenburg,Sluis
+Sint Kruis,Sluis
+Eede,Sluis
+Terneuzen,Terneuzen
+Spui,Terneuzen
+Sluiskil,Terneuzen
+Hoek,Terneuzen
+Zaamslag,Terneuzen
+Sas van Gent,Terneuzen
+Philippine,Terneuzen
+Westdorpe,Terneuzen
+Hulst,Hulst
+Sint Jansteen,Hulst
+Kapellebrug,Hulst
+Heikant,Hulst
+Clinge,Hulst
+Nieuw Namen,Hulst
+Graauw,Hulst
+Axel,Terneuzen
+Zuiddorpe,Terneuzen
+Overslag,Terneuzen
+Koewacht,Terneuzen
+Vogelwaarde,Hulst
+Terhole,Hulst
+Kuitaart,Hulst
+Hengstdijk,Hulst
+Lamswaarde,Hulst
+Kloosterzande,Hulst
+Walsoorden,Hulst
+Ossenisse,Hulst
+Bergen op Zoom,Bergen op Zoom
+Hoogerheide,Woensdrecht
+Woensdrecht,Woensdrecht
+Huijbergen,Woensdrecht
+Ossendrecht,Woensdrecht
+Putte,Woensdrecht
+Steenbergen,Steenbergen
+De Heen,Steenbergen
+Halsteren,Bergen op Zoom
+Lepelstraat,Bergen op Zoom
+Dinteloord,Steenbergen
+Sint Philipsland,Tholen
+Nieuw-Vossemeer,Steenbergen
+Tholen,Tholen
+Poortvliet,Tholen
+Scherpenisse,Tholen
+Sint-Maartensdijk,Tholen
+Stavenisse,Tholen
+Sint-Annaland,Tholen
+Oud-Vossemeer,Tholen
+Roosendaal,Roosendaal
+Nispen,Roosendaal
+St. Willebrord,Rucphen
+Sprundel,Rucphen
+Rucphen,Rucphen
+Schijf,Rucphen
+Wouw,Roosendaal
+Wouwse Plantage,Roosendaal
+Heerle,Roosendaal
+Moerstraten,Roosendaal
+Oudenbosch,Halderberge
+Zegge,Rucphen
+Hoeven,Halderberge
+Bosschenhoofd,Halderberge
+Oud Gastel,Halderberge
+Stampersgat,Halderberge
+Kruisland,Steenbergen
+Standdaarbuiten,Moerdijk
+Noordhoek,Moerdijk
+Zevenbergen,Moerdijk
+Zevenbergschen Hoek,Moerdijk
+Zevenbergschen Hoek,Drimmelen
+Langeweg,Moerdijk
+Moerdijk,Moerdijk
+Klundert,Moerdijk
+Fijnaart,Moerdijk
+Heijningen,Moerdijk
+Oudemolen,Moerdijk
+Willemstad,Moerdijk
+Breda,Breda
+Prinsenbeek,Breda
+Terheijden,Drimmelen
+Wagenberg,Drimmelen
+Teteringen,Breda
+Dorst,Oosterhout
+Ulvenhout,Breda
+Bavel,Breda
+Galder,Alphen-Chaam
+Strijbeek,Alphen-Chaam
+Ulvenhout AC,Alphen-Chaam
+Bavel AC,Alphen-Chaam
+Chaam,Alphen-Chaam
+Etten-Leur,Etten-Leur
+Zundert,Zundert
+Klein Zundert,Zundert
+Wernhout,Zundert
+Achtmaal,Zundert
+Rijsbergen,Zundert
+Oosterhout,Oosterhout
+Oosteind,Oosterhout
+Den Hout,Oosterhout
+Made,Drimmelen
+Drimmelen,Drimmelen
+Lage Zwaluwe,Drimmelen
+Hooge Zwaluwe,Drimmelen
+Geertruidenberg,Geertruidenberg
+Raamsdonksveer,Geertruidenberg
+Raamsdonk,Geertruidenberg
+Tilburg,Tilburg
+Goirle,Goirle
+Berkel-Enschot,Tilburg
+Heukelom,Oisterwijk
+Oisterwijk,Oisterwijk
+Moergestel,Oisterwijk
+Udenhout,Tilburg
+Biezenmortel,Haaren
+Haaren,Haaren
+Hilvarenbeek,Hilvarenbeek
+Biest-Houtakker,Hilvarenbeek
+Esbeek,Hilvarenbeek
+Diessen,Hilvarenbeek
+Haghorst,Hilvarenbeek
+Oost West en Middelbeers,Oirschot
+Lage Mierde,Reusel-De Mierden
+Hooge Mierde,Reusel-De Mierden
+Hulsel,Reusel-De Mierden
+Dongen,Dongen
+'s Gravenmoer,Dongen
+Ulicoten,Baarle-Nassau
+Castelre,Baarle-Nassau
+Rijen,Gilze en Rijen
+Molenschot,Gilze en Rijen
+Hulten,Gilze en Rijen
+Gilze,Gilze en Rijen
+Alphen,Alphen-Chaam
+Riel,Goirle
+Waalwijk,Waalwijk
+Drunen,Heusden
+Elshout,Heusden
+Oudheusden,Heusden
+Doeveren,Heusden
+Heesbeen,Heusden
+Sprang-Capelle,Waalwijk
+Waspik,Waalwijk
+Eindhoven,Eindhoven
+Kaatsheuvel,Loon op Zand
+Loon op Zand,Loon op Zand
+De Moer,Loon op Zand
+'s-Hertogenbosch,'s-Hertogenbosch
+Rosmalen,'s-Hertogenbosch
+Vlijmen,Heusden
+Nieuwkuijk,Heusden
+Haarsteeg,Heusden
+Herpt,Heusden
+Heusden,Heusden
+Hedikhuizen,Heusden
+Berlicum,Sint-Michielsgestel
+Vught,Vught
+Cromvoirt,Vught
+Helvoirt,Haaren
+Sint-Michielsgestel,Sint-Michielsgestel
+Den Dungen,Sint-Michielsgestel
+Boxtel,Boxtel
+Gemonde,Sint-Michielsgestel
+Esch,Haaren
+Liempde,Boxtel
+Zaltbommel,Zaltbommel
+Zuilichem,Zaltbommel
+Brakel,Zaltbommel
+Poederoijen,Zaltbommel
+Aalst,Zaltbommel
+Gameren,Zaltbommel
+Nieuwaal,Zaltbommel
+Bruchem,Zaltbommel
+Kerkwijk,Zaltbommel
+Delwijnen,Zaltbommel
+Nederhemert,Zaltbommel
+Bern,Zaltbommel
+Hedel,Maasdriel
+Ammerzoden,Maasdriel
+Well,Maasdriel
+Hurwenen,Maasdriel
+Rossum,Maasdriel
+Kerkdriel,Maasdriel
+Velddriel,Maasdriel
+Alem,Maasdriel
+Oss,Oss
+Berghem,Oss
+Deursen-Dennenburg,Oss
+Dieden,Oss
+Demen,Oss
+Neerlangel,Oss
+Neerloon,Oss
+Overlangel,Oss
+Huisseling,Oss
+Keent,Oss
+Grave,Grave
+Velp,Grave
+Escharen,Grave
+Megen,Oss
+Macharen,Oss
+Haren,Oss
+Ravenstein,Oss
+Herpen,Oss
+Schaijk,Landerd
+Reek,Landerd
+Vinkel,'s-Hertogenbosch
+Heesch,Bernheze
+Geffen,Oss
+Nistelrode,Bernheze
+Nuland,'s-Hertogenbosch
+Oijen,Oss
+Teeffelen,Oss
+Lithoijen,Oss
+Lith,Oss
+Maren-Kessel,Oss
+Uden,Uden
+Volkel,Uden
+Odiliapeel,Uden
+Zeeland,Landerd
+Gemert,Gemert-Bakel
+Handel,Gemert-Bakel
+Elsendorp,Gemert-Bakel
+De Mortel,Gemert-Bakel
+Boekel,Boekel
+Venhorst,Boekel
+Cuijk,Cuijk
+Katwijk NB,Cuijk
+Vianen NB,Cuijk
+Sint Agatha,Cuijk
+Beers NB,Cuijk
+Gassel,Grave
+Linden,Cuijk
+Oeffelt,Boxmeer
+Haps,Cuijk
+Landhorst,Sint Anthonis
+Wanroij,Sint Anthonis
+Rijkevoort,Boxmeer
+Rijkevoort-De Walsert,Sint Anthonis
+Mill,Mill en Sint Hubert
+Langenboom,Mill en Sint Hubert
+Sint Hubert,Mill en Sint Hubert
+Wilbertoord,Mill en Sint Hubert
+Veghel,Meierijstad
+Erp,Meierijstad
+Loosbroek,Bernheze
+Heeswijk-Dinther,Bernheze
+Vorstenbosch,Bernheze
+Schijndel,Meierijstad
+Sint-Oedenrode,Meierijstad
+Veldhoven,Veldhoven
+Knegsel,Eersel
+Vessem,Eersel
+Wintelre,Eersel
+Eersel,Eersel
+Steensel,Eersel
+Duizel,Eersel
+Hapert,Bladel
+Hoogeloon,Bladel
+Casteren,Bladel
+Bladel,Bladel
+Netersel,Bladel
+Reusel,Reusel-De Mierden
+Valkenswaard,Valkenswaard
+Riethoven,Bergeijk
+Westerhoven,Bergeijk
+Bergeijk,Bergeijk
+Luyksgestel,Bergeijk
+Waalre,Waalre
+Heeze,Heeze-Leende
+Leende,Heeze-Leende
+Geldrop,Geldrop-Mierlo
+Nuenen,"Nuenen, Gerwen en Nederwetten"
+Best,Best
+Oirschot,Oirschot
+Son en Breugel,Son en Breugel
+Helmond,Helmond
+Someren,Someren
+Lierop,Someren
+Asten,Asten
+Ommel,Asten
+Heusden,Asten
+Mierlo,Geldrop-Mierlo
+Aarle-Rixtel,Laarbeek
+Lieshout,Laarbeek
+Mariahout,Laarbeek
+Beek en Donk,Laarbeek
+Deurne,Deurne
+Vlierden,Deurne
+Liessel,Deurne
+Neerkant,Deurne
+Helenaveen,Deurne
+Bakel,Gemert-Bakel
+Milheeze,Gemert-Bakel
+De Rips,Gemert-Bakel
+Griendtsveen,Horst aan de Maas
+Meijel,Peel en Maas
+Venray,Venray
+Oostrum,Venray
+Oirlo,Venray
+Leunen,Venray
+Castenray,Venray
+Heide,Venray
+Ysselsteyn,Venray
+Veulen,Venray
+Merselo,Venray
+Vredepeel,Venray
+Smakt,Venray
+Vierlingsbeek,Boxmeer
+Maashees,Boxmeer
+Holthees,Boxmeer
+Overloon,Boxmeer
+Groeningen,Boxmeer
+Vortum-Mullem,Boxmeer
+Boxmeer,Boxmeer
+Beugen,Boxmeer
+Sambeek,Boxmeer
+Oploo,Sint Anthonis
+Westerbeek,Sint Anthonis
+Stevensbeek,Sint Anthonis
+Sint Anthonis,Sint Anthonis
+Ledeacker,Sint Anthonis
+Afferden L,Bergen (L.)
+Siebengewald,Bergen (L.)
+Bergen L,Bergen (L.)
+Well L,Bergen (L.)
+Wellerlooi,Bergen (L.)
+Wanssum,Venray
+Geijsteren,Venray
+Blitterswijck,Venray
+Meerlo,Horst aan de Maas
+Tienray,Horst aan de Maas
+Swolgen,Horst aan de Maas
+Broekhuizenvorst,Horst aan de Maas
+Broekhuizen,Horst aan de Maas
+Venlo,Venlo
+Tegelen,Venlo
+Steyl,Venlo
+Velden,Venlo
+Lomm,Venlo
+Arcen,Venlo
+Belfeld,Venlo
+Reuver,Beesel
+Beesel,Beesel
+Horst,Horst aan de Maas
+Melderslo,Horst aan de Maas
+Hegelsom,Horst aan de Maas
+Meterik,Horst aan de Maas
+America,Horst aan de Maas
+Grubbenvorst,Horst aan de Maas
+Lottum,Horst aan de Maas
+Sevenum,Horst aan de Maas
+Kronenberg,Horst aan de Maas
+Evertsoord,Horst aan de Maas
+Panningen,Peel en Maas
+Koningslust,Peel en Maas
+Grashoek,Peel en Maas
+Beringe,Peel en Maas
+Egchel,Peel en Maas
+Helden,Peel en Maas
+Baarlo,Peel en Maas
+Maasbree,Peel en Maas
+Kessel,Peel en Maas
+Weert,Weert
+Ell,Leudal
+Haler,Leudal
+Hunsel,Leudal
+Ittervoort,Leudal
+Neeritter,Leudal
+Thorn,Maasgouw
+Wessem,Maasgouw
+Budel,Cranendonck
+Budel-Schoot,Cranendonck
+Budel-Dorplein,Cranendonck
+Maarheeze,Cranendonck
+Soerendonk,Cranendonck
+Gastel,Cranendonck
+Sterksel,Heeze-Leende
+Nederweert,Nederweert
+Nederweert-Eind,Nederweert
+Ospel,Nederweert
+Kelpen-Oler,Leudal
+Stramproy,Weert
+Roermond,Roermond
+Herten,Roermond
+Maasbracht,Maasgouw
+Posterholt,Roerdalen
+Vlodrop,Roerdalen
+Montfort,Roerdalen
+Linne,Maasgouw
+Neer,Leudal
+Swalmen,Roermond
+Melick,Roerdalen
+Herkenbosch,Roerdalen
+Sint Odiliënberg,Roerdalen
+Haelen,Leudal
+Buggenum,Leudal
+Nunhem,Leudal
+Horn,Leudal
+Roggel,Leudal
+Heibloem,Leudal
+Leveroy,Nederweert
+Heythuysen,Leudal
+Baexem,Leudal
+Grathem,Leudal
+Heel,Maasgouw
+Beegden,Maasgouw
+Echt,Echt-Susteren
+Koningsbosch,Echt-Susteren
+Maria Hoop,Echt-Susteren
+Stevensweert,Maasgouw
+Ohé en Laak,Maasgouw
+Sint Joost,Echt-Susteren
+Susteren,Echt-Susteren
+Roosteren,Echt-Susteren
+Nieuwstadt,Echt-Susteren
+Born,Sittard-Geleen
+Buchten,Sittard-Geleen
+Holtum,Sittard-Geleen
+Papenhoven,Sittard-Geleen
+Obbicht,Sittard-Geleen
+Grevenbicht,Sittard-Geleen
+Urmond,Stein
+Sittard,Sittard-Geleen
+Limbricht,Sittard-Geleen
+Einighausen,Sittard-Geleen
+Guttecoven,Sittard-Geleen
+Munstergeleen,Sittard-Geleen
+Windraak,Sittard-Geleen
+Puth,Beekdaelen
+Geleen,Sittard-Geleen
+Stein,Stein
+Sweikhuizen,Beekdaelen
+Spaubeek,Beek
+Elsloo,Stein
+Beek,Beek
+Maastricht-Airport,Beek
+Maastricht,Maastricht
+Meerssen,Meerssen
+Ulestraten,Meerssen
+Moorveld,Meerssen
+Bunde,Meerssen
+Geulle,Meerssen
+Eijsden,Eijsden-Margraten
+Gronsveld,Eijsden-Margraten
+Eckelrade,Eijsden-Margraten
+Noorbeek,Eijsden-Margraten
+Mheer,Eijsden-Margraten
+Banholt,Eijsden-Margraten
+Sint Geertruid,Eijsden-Margraten
+Cadier en Keer,Eijsden-Margraten
+Bemelen,Eijsden-Margraten
+Margraten,Eijsden-Margraten
+Gulpen,Gulpen-Wittem
+Ingber,Gulpen-Wittem
+Reijmerstok,Gulpen-Wittem
+Heijenrath,Gulpen-Wittem
+Slenaken,Gulpen-Wittem
+Beutenaken,Gulpen-Wittem
+Mechelen,Gulpen-Wittem
+Epen,Gulpen-Wittem
+Wittem,Gulpen-Wittem
+Eys,Gulpen-Wittem
+Elkenrade,Gulpen-Wittem
+Vaals,Vaals
+Vijlen,Vaals
+Lemiers,Vaals
+Valkenburg,Valkenburg aan de Geul
+Schin op Geul,Valkenburg aan de Geul
+Scheulder,Eijsden-Margraten
+Ransdaal,Voerendaal
+Wijlre,Gulpen-Wittem
+Berg en Terblijt,Valkenburg aan de Geul
+Schimmert,Beekdaelen
+Hulsberg,Beekdaelen
+Walem,Valkenburg aan de Geul
+Klimmen,Voerendaal
+Bocholtz,Simpelveld
+Baneheide,Simpelveld
+Nuth,Beekdaelen
+Wijnandsrade,Beekdaelen
+Schinnen,Beekdaelen
+Voerendaal,Voerendaal
+Simpelveld,Simpelveld
+Landgraaf,Landgraaf
+Heerlen,Heerlen
+Hoensbroek,Heerlen
+Amstenrade,Beekdaelen
+Oirsbeek,Beekdaelen
+Doenrade,Beekdaelen
+Brunssum,Brunssum
+Merkelbeek,Beekdaelen
+Schinveld,Beekdaelen
+Jabeek,Beekdaelen
+Bingelrade,Beekdaelen
+Kerkrade,Kerkrade
+Eygelshoven,Kerkrade
+Nijmegen,Nijmegen
+Weurt,Beuningen
+Groesbeek,Berg en Dal
+Heilig Landstichting,Berg en Dal
+Millingen aan de Rijn,Berg en Dal
+Berg en Dal,Berg en Dal
+Beek,Berg en Dal
+Ubbergen,Berg en Dal
+Persingen,Berg en Dal
+Ooij,Berg en Dal
+Erlecom,Berg en Dal
+Leuth,Berg en Dal
+Kekerdom,Berg en Dal
+Malden,Heumen
+Heumen,Heumen
+Molenhoek,Mook en Middelaar
+Mook,Mook en Middelaar
+Plasmolen,Mook en Middelaar
+Middelaar,Mook en Middelaar
+Gennep,Gennep
+Ottersum,Gennep
+Milsbeek,Gennep
+Heijen,Gennep
+Ven-Zelderheide,Gennep
+Wijchen,Wijchen
+Niftrik,Wijchen
+Overasselt,Heumen
+Nederasselt,Heumen
+Balgoij,Wijchen
+Leur,Wijchen
+Hernen,Wijchen
+Bergharen,Wijchen
+Dreumel,West Maas en Waal
+Heerewaarden,Maasdriel
+Alphen,West Maas en Waal
+Maasbommel,West Maas en Waal
+Altforst,West Maas en Waal
+Appeltern,West Maas en Waal
+Horssen,Druten
+Batenburg,Wijchen
+Beuningen Gld,Beuningen
+Ewijk,Beuningen
+Winssen,Beuningen
+Druten,Druten
+Deest,Druten
+Afferden,Druten
+Puiflijk,Druten
+Boven-Leeuwen,West Maas en Waal
+Beneden-Leeuwen,West Maas en Waal
+Wamel,West Maas en Waal
+Elst,Overbetuwe
+Lent,Nijmegen
+Driel,Overbetuwe
+Heteren,Overbetuwe
+Randwijk,Overbetuwe
+Dodewaard,Neder-Betuwe
+Zetten,Overbetuwe
+Hemmen,Overbetuwe
+Andelst,Overbetuwe
+Herveld,Overbetuwe
+Valburg,Overbetuwe
+Homoet,Overbetuwe
+Slijk-Ewijk,Overbetuwe
+Oosterhout,Overbetuwe
+Bemmel,Lingewaard
+Ressen,Lingewaard
+Haalderen,Lingewaard
+Doornenburg,Lingewaard
+Angeren,Lingewaard
+Gendt,Lingewaard
+Wageningen,Wageningen
+Ede,Ede
+Bennekom,Ede
+Otterlo,Ede
+Harskamp,Ede
+Wekerom,Ede
+Lunteren,Ede
+Ederveen,Ede
+De Klomp,Ede
+Arnhem,Arnhem
+Huissen,Lingewaard
+Oosterbeek,Renkum
+Doorwerth,Renkum
+Heelsum,Renkum
+Heveadorp,Renkum
+Renkum,Renkum
+Wolfheze,Renkum
+Deelen,Ede
+Velp,Rheden
+Rozendaal,Rozendaal
+Zevenaar,Zevenaar
+Babberich,Zevenaar
+Pannerden,Zevenaar
+Aerdt,Zevenaar
+Herwen,Zevenaar
+Lobith,Zevenaar
+Tolkamer,Zevenaar
+Spijk,Zevenaar
+Duiven,Duiven
+Groessen,Duiven
+Loo Gld,Duiven
+Westervoort,Westervoort
+Didam,Montferland
+Dieren,Rheden
+Ellecom,Rheden
+Spankeren,Rheden
+Laag-Soeren,Rheden
+Eerbeek,Brummen
+Hall,Brummen
+Brummen,Brummen
+Leuvenheim,Brummen
+Tonden,Brummen
+Doesburg,Doesburg
+Angerlo,Zevenaar
+Giesbeek,Zevenaar
+Lathum,Zevenaar
+Rheden,Rheden
+De Steeg,Rheden
+Drempt,Bronckhorst
+Hoog-Keppel,Bronckhorst
+Laag-Keppel,Bronckhorst
+Hummelo,Bronckhorst
+Doetinchem,Doetinchem
+Gaanderen,Doetinchem
+Zelhem,Bronckhorst
+Halle,Bronckhorst
+Wehl,Doetinchem
+Kilder,Montferland
+Loerbeek,Montferland
+Beek,Montferland
+Zeddam,Montferland
+Stokkum,Montferland
+'s-Heerenberg,Montferland
+Lengel,Montferland
+Azewijn,Montferland
+Vethuizen,Montferland
+Braamt,Montferland
+Wijnbergen,Montferland
+Varsseveld,Oude IJsselstreek
+Westendorp,Oude IJsselstreek
+Heelweg,Oude IJsselstreek
+Terborg,Oude IJsselstreek
+Silvolde,Oude IJsselstreek
+Sinderen,Oude IJsselstreek
+Ulft,Oude IJsselstreek
+Etten,Oude IJsselstreek
+Varsselder,Oude IJsselstreek
+Netterden,Oude IJsselstreek
+Megchelen,Oude IJsselstreek
+Gendringen,Oude IJsselstreek
+Voorst,Oude IJsselstreek
+Breedenbroek,Oude IJsselstreek
+Dinxperlo,Aalten
+De Heurne,Aalten
+Winterswijk,Winterswijk
+Winterswijk Meddo,Winterswijk
+Winterswijk Huppel,Winterswijk
+Winterswijk Ratum,Winterswijk
+Winterswijk Kotten,Winterswijk
+Winterswijk Woold,Winterswijk
+Winterswijk Miste,Winterswijk
+Winterswijk Henxel,Winterswijk
+Winterswijk Brinkheurne,Winterswijk
+Winterswijk Corle,Winterswijk
+Aalten,Aalten
+Bredevoort,Aalten
+Lichtenvoorde,Oost Gelre
+Vragender,Oost Gelre
+Harreveld,Oost Gelre
+Zieuwent,Oost Gelre
+Lievelde,Oost Gelre
+Groenlo,Oost Gelre
+Eibergen,Berkelland
+Beltrum,Berkelland
+Rekken,Berkelland
+Neede,Berkelland
+Rietmolen,Berkelland
+Zutphen,Zutphen
+Eefde,Lochem
+Gorssel,Lochem
+Epse,Lochem
+Joppe,Lochem
+Kring van Dorth,Lochem
+Harfsen,Lochem
+Almen,Lochem
+Steenderen,Bronckhorst
+Baak,Bronckhorst
+Rha,Bronckhorst
+Olburgen,Bronckhorst
+Bronkhorst,Bronckhorst
+Toldijk,Bronckhorst
+Warnsveld,Zutphen
+Vierakker,Bronckhorst
+Wichmond,Bronckhorst
+Lochem,Lochem
+Barchem,Lochem
+Laren,Lochem
+Vorden,Bronckhorst
+Hengelo (Gld),Bronckhorst
+Keijenborg,Bronckhorst
+Ruurlo,Berkelland
+Mariënvelde,Oost Gelre
+Borculo,Berkelland
+Haarlo,Berkelland
+Geesteren,Berkelland
+Gelselaar,Berkelland
+Apeldoorn,Apeldoorn
+Ugchelen,Apeldoorn
+Beemte Broekland,Apeldoorn
+Wenum Wiesel,Apeldoorn
+Hoog Soeren,Apeldoorn
+Radio Kootwijk,Apeldoorn
+Hoenderloo,Apeldoorn
+Hoenderloo,Ede
+Beekbergen,Apeldoorn
+Lieren,Apeldoorn
+Loenen,Apeldoorn
+Klarenbeek,Apeldoorn
+Klarenbeek,Voorst
+Voorst,Voorst
+Wilp,Voorst
+Twello,Voorst
+Teuge,Voorst
+Terwolde,Voorst
+Nijbroek,Voorst
+Empe,Brummen
+Deventer,Deventer
+Colmschate,Deventer
+Diepenveen,Deventer
+Schalkhaar,Deventer
+Lettele,Deventer
+Okkenbroek,Deventer
+Bathmen,Deventer
+Steenenkamer,Voorst
+Nijverdal,Hellendoorn
+Hellendoorn,Hellendoorn
+Haarle,Hellendoorn
+Holten,Rijssen-Holten
+Rijssen,Rijssen-Holten
+Zuna,Wierden
+Notter,Wierden
+Enter,Wierden
+Goor,Hof van Twente
+Markelo,Hof van Twente
+Diepenheim,Hof van Twente
+Haaksbergen,Haaksbergen
+Delden,Hof van Twente
+Ambt Delden,Hof van Twente
+Hengevelde,Hof van Twente
+Bentelo,Hof van Twente
+Enschede,Enschede
+Hengelo,Hengelo
+Deurningen,Dinkelland
+Deurningen,Oldenzaal
+Oldenzaal,Oldenzaal
+Losser,Losser
+Glane,Losser
+Overdinkel,Losser
+de Lutte,Losser
+Beuningen,Losser
+Denekamp,Dinkelland
+Weerselo,Dinkelland
+Rossum,Dinkelland
+Saasveld,Dinkelland
+Almelo,Almelo
+Aadorp,Almelo
+Mariaparochie,Tubbergen
+Harbrinkhoek,Tubbergen
+Borne,Borne
+Zenderen,Borne
+Hertme,Borne
+Bornerbroek,Almelo
+Ootmarsum,Dinkelland
+Tilligte,Dinkelland
+Lattrop-Breklenkamp,Dinkelland
+Agelo,Dinkelland
+Oud Ootmarsum,Dinkelland
+Nutter,Dinkelland
+Wierden,Wierden
+Hoge Hexel,Wierden
+Tubbergen,Tubbergen
+Vasse,Tubbergen
+Hezingen,Tubbergen
+Mander,Tubbergen
+Manderveen,Tubbergen
+Albergen,Tubbergen
+Fleringen,Tubbergen
+Reutum,Tubbergen
+Haarle,Tubbergen
+Vriezenveen,Twenterand
+Bruinehaar,Twenterand
+Westerhaar-Vriezenveensewijk,Twenterand
+Geesteren,Tubbergen
+Langeveen,Tubbergen
+Vroomshoop,Twenterand
+Den Ham,Twenterand
+Beerzerveld,Ommen
+Geerdijk,Twenterand
+Daarlerveen,Hellendoorn
+Daarle,Hellendoorn
+Bergentheim,Hardenberg
+Mariënberg,Hardenberg
+Sibculo,Hardenberg
+Kloosterhaar,Hardenberg
+Bruchterveld,Hardenberg
+Brucht,Hardenberg
+Dedemsvaart,Hardenberg
+Drogteropslagen,De Wolden
+Balkbrug,Hardenberg
+Nieuwleusen,Dalfsen
+Punthorst,Staphorst
+Dalfsen,Dalfsen
+Ommen,Ommen
+Vilsteren,Ommen
+Arriën,Ommen
+Beerze,Ommen
+Stegeren,Ommen
+Witharen,Ommen
+Vinkenbuurt,Ommen
+Coevorden,Coevorden
+Dalen,Coevorden
+Dalerpeel,Coevorden
+Wachtum,Coevorden
+Dalerveen,Coevorden
+Stieltjeskanaal,Coevorden
+Schoonebeek,Emmen
+Zandpol,Emmen
+Weiteveen,Emmen
+Nieuw-Schoonebeek,Emmen
+Hardenberg,Hardenberg
+Lutten,Hardenberg
+Slagharen,Hardenberg
+Schuinesloot,Hardenberg
+Loozen,Hardenberg
+Holthone,Hardenberg
+De Krim,Hardenberg
+Gramsbergen,Hardenberg
+Ane,Hardenberg
+Anevelde,Hardenberg
+Den Velde,Hardenberg
+Holtheme,Hardenberg
+Anerveen,Hardenberg
+Radewijk,Hardenberg
+Venebrugge,Hardenberg
+Hoogenweg,Hardenberg
+Rheeze,Hardenberg
+Diffelen,Hardenberg
+Heemserveen,Hardenberg
+Rheezerveen,Hardenberg
+Collendoorn,Hardenberg
+Emmen,Emmen
+Nieuw-Weerdinge,Emmen
+Nieuw-Amsterdam,Emmen
+Sleen,Coevorden
+Diphoorn,Coevorden
+Erm,Coevorden
+Veenoord,Emmen
+Holsloot,Coevorden
+Noord-Sleen,Coevorden
+'t Haantje,Coevorden
+Schoonoord,Coevorden
+De Kiel,Coevorden
+Zweeloo,Coevorden
+Wezup,Coevorden
+Wezuperbrug,Coevorden
+Aalden,Coevorden
+Meppen,Coevorden
+Benneveld,Coevorden
+Eeserveen,Borger-Odoorn
+Oosterhesselen,Coevorden
+Gees,Coevorden
+Zwinderen,Coevorden
+Klijndijk,Borger-Odoorn
+Valthe,Borger-Odoorn
+Odoorn,Borger-Odoorn
+Odoornerveen,Borger-Odoorn
+Exloo,Borger-Odoorn
+Valthermond,Borger-Odoorn
+2e Valthermond,Borger-Odoorn
+Emmer-Compascuum,Emmen
+Barger-Compascuum,Emmen
+Nieuw-Dordrecht,Emmen
+Erica,Emmen
+Klazienaveen-Noord,Emmen
+Klazienaveen,Emmen
+Zwartemeer,Emmen
+Roswinkel,Emmen
+Hoogeveen,Hoogeveen
+Nieuweroord,Midden-Drenthe
+Nieuweroord,Hoogeveen
+Hollandscheveld,Hoogeveen
+Noordscheschut,Hoogeveen
+Alteveer gem Hoogeveen,Hoogeveen
+Elim,Hoogeveen
+Geesbrug,Coevorden
+Nieuwlande,Hoogeveen
+Zuidwolde,De Wolden
+Veeningen,De Wolden
+Linde,De Wolden
+Kerkenveld,De Wolden
+Alteveer,De Wolden
+Stuifzand,Midden-Drenthe
+Nieuwlande Coevorden,Coevorden
+Fluitenberg,Hoogeveen
+Echten,De Wolden
+Pesse,Hoogeveen
+Stuifzand,Hoogeveen
+Eursinge,De Wolden
+Tiendeveen,Hoogeveen
+Tiendeveen,Midden-Drenthe
+Nieuw-Balinge,Midden-Drenthe
+Meppel,Meppel
+Wanneperveen,Steenwijkerland
+Nijeveen,Meppel
+Rogat,Meppel
+Staphorst,Staphorst
+Rouveen,Staphorst
+IJhorst,Staphorst
+de Wijk,De Wolden
+Koekange,De Wolden
+Ruinerwold,De Wolden
+Ruinen,De Wolden
+Ansen,De Wolden
+Broekhuizen,Meppel
+De Schiphorst,Meppel
+Havelte,Westerveld
+Darp,Westerveld
+Havelterberg,Westerveld
+Uffelte,Westerveld
+Diever,Westerveld
+Wapse,Westerveld
+Dieverbrug,Westerveld
+Geeuwenbrug,Westerveld
+Wittelte,Westerveld
+Dwingeloo,Westerveld
+Zwolle,Zwolle
+Hattem,Hattem
+Laag Zuthem,Raalte
+Hasselt,Zwartewaterland
+Zwartsluis,Zwartewaterland
+Belt-Schutsloot,Steenwijkerland
+Nunspeet,Nunspeet
+Elspeet,Nunspeet
+Vierhouten,Nunspeet
+Hulshorst,Nunspeet
+Noordeinde Gld,Oldebroek
+Elburg,Elburg
+'t Harde,Elburg
+Doornspijk,Elburg
+Wezep,Oldebroek
+Hattemerbroek,Oldebroek
+'t Loo Oldebroek,Oldebroek
+Oldebroek,Oldebroek
+Oosterwolde Gld,Oldebroek
+Raalte,Raalte
+Luttenberg,Raalte
+Mariënheem,Raalte
+Broekland,Raalte
+Heeten,Raalte
+Nieuw Heeten,Raalte
+Olst,Olst-Wijhe
+Wesepe,Olst-Wijhe
+Wijhe,Olst-Wijhe
+Heino,Raalte
+Lierderholthuis,Raalte
+Dalmsholte,Ommen
+Giethmen,Ommen
+Lemele,Ommen
+Lemelerveld,Dalfsen
+Epe,Epe
+Emst,Epe
+Oene,Epe
+Vaassen,Epe
+Heerde,Heerde
+Wapenveld,Heerde
+Vorchten,Heerde
+Veessen,Heerde
+Welsum,Olst-Wijhe
+Marle,Olst-Wijhe
+Lelystad,Lelystad
+Dronten,Dronten
+Swifterbant,Dronten
+Biddinghuizen,Dronten
+Kampen,Kampen
+IJsselmuiden,Kampen
+Wilsum,Kampen
+'s-Heerenbroek,Kampen
+Zalk,Kampen
+Grafhorst,Kampen
+Kamperveen,Kampen
+Genemuiden,Zwartewaterland
+Mastenbroek,Zwartewaterland
+Mastenbroek,Kampen
+Emmeloord,Noordoostpolder
+Ens,Noordoostpolder
+Nagele,Noordoostpolder
+Tollebeek,Noordoostpolder
+Espel,Noordoostpolder
+Creil,Noordoostpolder
+Rutten,Noordoostpolder
+Bant,Noordoostpolder
+Luttelgeest,Noordoostpolder
+Marknesse,Noordoostpolder
+Kraggenburg,Noordoostpolder
+Schokland,Noordoostpolder
+Urk,Urk
+Vollenhove,Steenwijkerland
+Sint Jansklooster,Steenwijkerland
+Steenwijk,Steenwijkerland
+Tuk,Steenwijkerland
+Witte Paarden,Steenwijkerland
+Baars,Steenwijkerland
+De Pol,Steenwijkerland
+Willemsoord,Steenwijkerland
+Marijenkampen,Steenwijkerland
+Steenwijkerwold,Steenwijkerland
+Basse,Steenwijkerland
+Zuidveen,Steenwijkerland
+Onna,Steenwijkerland
+Kallenkote,Steenwijkerland
+De Bult,Steenwijkerland
+Eesveen,Steenwijkerland
+Wapserveen,Westerveld
+Giethoorn,Steenwijkerland
+Blokzijl,Steenwijkerland
+IJsselham,Steenwijkerland
+Nederland,Steenwijkerland
+Wetering,Steenwijkerland
+Scheerwolde,Steenwijkerland
+Baarlo,Steenwijkerland
+Blankenham,Steenwijkerland
+Kuinre,Steenwijkerland
+Oldemarkt,Steenwijkerland
+Ossenzijl,Steenwijkerland
+Kalenberg,Steenwijkerland
+Paasloo,Steenwijkerland
+Vledder,Westerveld
+Frederiksoord,Westerveld
+Nijensleek,Westerveld
+Wilhelminaoord,Westerveld
+Vledderveen,Westerveld
+Doldersum,Westerveld
+Boschoord,Westerveld
+Oosterstreek,Weststellingwerf
+Zandhuizen,Weststellingwerf
+Noordwolde,Weststellingwerf
+Boijl,Weststellingwerf
+Vinkega,Weststellingwerf
+De Hoeve,Weststellingwerf
+Steggerda,Weststellingwerf
+Peperga,Weststellingwerf
+De Blesse,Weststellingwerf
+Blesdijke,Weststellingwerf
+Gorredijk,Opsterland
+Jonkerslân,Opsterland
+Langezwaag,Opsterland
+Luxwoude,Opsterland
+Tijnje,Opsterland
+Terwispel,Opsterland
+Lippenhuizen,Opsterland
+Hemrik,Opsterland
+Jubbega,Heerenveen
+Hoornsterzwaag,Heerenveen
+Oudehorne,Heerenveen
+Nieuwehorne,Heerenveen
+Bontebok,Heerenveen
+Oldeberkoop,Ooststellingwerf
+Nijeberkoop,Ooststellingwerf
+Makkinga,Ooststellingwerf
+Elsloo,Ooststellingwerf
+Langedijke,Ooststellingwerf
+Appelscha,Ooststellingwerf
+Ravenswoud,Ooststellingwerf
+Fochteloo,Ooststellingwerf
+Oosterwolde,Ooststellingwerf
+Haule,Ooststellingwerf
+Haulerwijk,Ooststellingwerf
+Waskemeer,Ooststellingwerf
+Donkerbroek,Ooststellingwerf
+Zorgvlied,Westerveld
+Wateren,Westerveld
+Oude Willem,Westerveld
+Heerenveen,Heerenveen
+Terband,Heerenveen
+Oudeschoot,Heerenveen
+Nieuweschoot,Heerenveen
+Oranjewoud,Heerenveen
+Mildam,Heerenveen
+Katlijk,Heerenveen
+De Knipe,Heerenveen
+Gersloot,Heerenveen
+Tjalleberd,Heerenveen
+Luinjeberd,Heerenveen
+Rottum,De Fryske Marren
+Rotstergaast,De Fryske Marren
+Rotsterhaule,De Fryske Marren
+Sintjohannesga,De Fryske Marren
+Oudehaske,De Fryske Marren
+Nijehaske,De Fryske Marren
+Vegelinsoord,De Fryske Marren
+Haskerdijken,Heerenveen
+Nieuwebrug,Heerenveen
+Wolvega,Weststellingwerf
+Oldeholtpade,Weststellingwerf
+Nijeholtpade,Weststellingwerf
+Ter Idzard,Weststellingwerf
+Oldeholtwolde,Weststellingwerf
+Sonnega,Weststellingwerf
+Oldetrijne,Weststellingwerf
+Nijetrijne,Weststellingwerf
+Spanga,Weststellingwerf
+Scherpenzeel,Weststellingwerf
+Langelille,Weststellingwerf
+Munnekeburen,Weststellingwerf
+Oldelamer,Weststellingwerf
+Nijelamer,Weststellingwerf
+Nijeholtwolde,Weststellingwerf
+Slijkenburg,Weststellingwerf
+Akkrum,Heerenveen
+Terherne,De Fryske Marren
+Nes,Heerenveen
+Aldeboarn,Heerenveen
+Goëngahuizen,Smallingerland
+Joure,De Fryske Marren
+Snikzwaag,De Fryske Marren
+Haskerhorne,De Fryske Marren
+Rohel,De Fryske Marren
+Delfstrahuizen,De Fryske Marren
+Goingarijp,De Fryske Marren
+Broek,De Fryske Marren
+Ouwsterhaule,De Fryske Marren
+Ouwster-Nijega,De Fryske Marren
+Oldeouwer,De Fryske Marren
+Doniaga,De Fryske Marren
+Scharsterbrug,De Fryske Marren
+Sint Nicolaasga,De Fryske Marren
+Tjerkgaast,De Fryske Marren
+Idskenhuizen,De Fryske Marren
+Teroele,De Fryske Marren
+Langweer,De Fryske Marren
+Boornzwaag,De Fryske Marren
+Legemeer,De Fryske Marren
+Dijken,De Fryske Marren
+Koufurderrige,Súdwest-Fryslân
+Lemmer,De Fryske Marren
+Eesterga,De Fryske Marren
+Follega,De Fryske Marren
+Oosterzee,De Fryske Marren
+Echten,De Fryske Marren
+Bantega,De Fryske Marren
+Echtenerbrug,De Fryske Marren
+Akmarijp,De Fryske Marren
+Terkaple,De Fryske Marren
+Woudsend,Súdwest-Fryslân
+Smallebrugge,Súdwest-Fryslân
+Indijk,Súdwest-Fryslân
+Ypecolsga,Súdwest-Fryslân
+Sloten,De Fryske Marren
+Balk,De Fryske Marren
+Wijckel,De Fryske Marren
+Ruigahuizen,De Fryske Marren
+Sondel,De Fryske Marren
+Nijemirdum,De Fryske Marren
+Oudemirdum,De Fryske Marren
+Harich,De Fryske Marren
+Rijs,De Fryske Marren
+Mirns,De Fryske Marren
+Bakhuizen,De Fryske Marren
+Elahuizen,De Fryske Marren
+Oudega,De Fryske Marren
+Kolderwolde,De Fryske Marren
+Hemelum,Súdwest-Fryslân
+Sneek,Súdwest-Fryslân
+Gaastmeer,Súdwest-Fryslân
+Idzega,Súdwest-Fryslân
+Sandfirden,Súdwest-Fryslân
+Oudega,Súdwest-Fryslân
+Blauwhuis,Súdwest-Fryslân
+Westhem,Súdwest-Fryslân
+Abbega,Súdwest-Fryslân
+Oosthem,Súdwest-Fryslân
+Heeg,Súdwest-Fryslân
+Hommerts,Súdwest-Fryslân
+Jutrijp,Súdwest-Fryslân
+Uitwellingerga,Súdwest-Fryslân
+Oppenhuizen,Súdwest-Fryslân
+Offingawier,Súdwest-Fryslân
+Gauw,Súdwest-Fryslân
+Goënga,Súdwest-Fryslân
+Scharnegoutum,Súdwest-Fryslân
+Loënga,Súdwest-Fryslân
+Tirns,Súdwest-Fryslân
+Ysbrechtum,Súdwest-Fryslân
+Boazum,Súdwest-Fryslân
+Britswert,Súdwest-Fryslân
+Wiuwert,Súdwest-Fryslân
+Rien,Súdwest-Fryslân
+Lytsewierrum,Súdwest-Fryslân
+Dearsum,Súdwest-Fryslân
+Sibrandabuorren,Súdwest-Fryslân
+IJlst,Súdwest-Fryslân
+Greonterp,Súdwest-Fryslân
+Bolsward,Súdwest-Fryslân
+Workum,Súdwest-Fryslân
+Hindeloopen,Súdwest-Fryslân
+Stavoren,Súdwest-Fryslân
+Warns,Súdwest-Fryslân
+Molkwerum,Súdwest-Fryslân
+Koudum,Súdwest-Fryslân
+It Heidenskip,Súdwest-Fryslân
+Wommels,Súdwest-Fryslân
+Kûbaard,Súdwest-Fryslân
+Iens,Súdwest-Fryslân
+Easterein,Súdwest-Fryslân
+Itens,Súdwest-Fryslân
+Reahûs,Súdwest-Fryslân
+Hidaard,Súdwest-Fryslân
+Hartwerd,Súdwest-Fryslân
+Burgwerd,Súdwest-Fryslân
+Hichtum,Súdwest-Fryslân
+Schettens,Súdwest-Fryslân
+Longerhouw,Súdwest-Fryslân
+Schraard,Súdwest-Fryslân
+Wons,Súdwest-Fryslân
+Witmarsum,Súdwest-Fryslân
+Pingjum,Súdwest-Fryslân
+Zurich,Súdwest-Fryslân
+Kornwerderzand,Súdwest-Fryslân
+Cornwerd,Súdwest-Fryslân
+Makkum,Súdwest-Fryslân
+Idsegahuizum,Súdwest-Fryslân
+Piaam,Súdwest-Fryslân
+Gaast,Súdwest-Fryslân
+Allingawier,Súdwest-Fryslân
+Exmorra,Súdwest-Fryslân
+Ferwoude,Súdwest-Fryslân
+Hieslum,Súdwest-Fryslân
+Parrega,Súdwest-Fryslân
+Dedgum,Súdwest-Fryslân
+Tjerkwerd,Súdwest-Fryslân
+Breezanddijk,Súdwest-Fryslân
+Nijland,Súdwest-Fryslân
+Tjalhuizum,Súdwest-Fryslân
+Folsgare,Súdwest-Fryslân
+Wolsum,Súdwest-Fryslân
+Nijhuizum,Súdwest-Fryslân
+Franeker,Waadhoeke
+Tzum,Waadhoeke
+Hitzum,Waadhoeke
+Achlum,Waadhoeke
+Herbaijum,Waadhoeke
+Dongjum,Waadhoeke
+Boer,Waadhoeke
+Ried,Waadhoeke
+Peins,Waadhoeke
+Schalsum,Waadhoeke
+Zweins,Waadhoeke
+Skingen,Waadhoeke
+Kimswerd,Súdwest-Fryslân
+Arum,Súdwest-Fryslân
+Lollum,Súdwest-Fryslân
+Winsum,Waadhoeke
+Húns,Leeuwarden
+Leons,Leeuwarden
+Baard,Leeuwarden
+Easterlittens,Leeuwarden
+Baaium,Waadhoeke
+Wjelsryp,Waadhoeke
+Spannum,Waadhoeke
+Hinnaard,Súdwest-Fryslân
+Waaksens,Súdwest-Fryslân
+Tzummarum,Waadhoeke
+Firdgum,Waadhoeke
+Klooster Lidlum,Waadhoeke
+Oosterbierum,Waadhoeke
+Sexbierum,Waadhoeke
+Pietersbierum,Waadhoeke
+Wijnaldum,Harlingen
+Harlingen,Harlingen
+Midlum,Harlingen
+West-Terschelling,Terschelling
+Hee,Terschelling
+Kaard,Terschelling
+Baaiduinen,Terschelling
+Kinnum,Terschelling
+Midsland,Terschelling
+Striep,Terschelling
+Landerum,Terschelling
+Formerum,Terschelling
+Lies,Terschelling
+Hoorn,Terschelling
+Oosterend,Terschelling
+Vlieland,Vlieland
+Leeuwarden,Leeuwarden
+Hempens,Leeuwarden
+Grou,Leeuwarden
+Warten,Leeuwarden
+Warstiens,Leeuwarden
+Wergea,Leeuwarden
+Eagum,Leeuwarden
+Idaerd,Leeuwarden
+Reduzum,Leeuwarden
+Friens,Leeuwarden
+Jirnsum,Leeuwarden
+Raerd,Súdwest-Fryslân
+Poppenwier,Súdwest-Fryslân
+Tersoal,Súdwest-Fryslân
+Easterwierrum,Súdwest-Fryslân
+Mantgum,Leeuwarden
+Jorwert,Leeuwarden
+Weidum,Leeuwarden
+Bears,Leeuwarden
+Jellum,Leeuwarden
+Hilaard,Leeuwarden
+Boksum,Waadhoeke
+Blessum,Waadhoeke
+Deinum,Waadhoeke
+Marsum,Waadhoeke
+Dronryp,Waadhoeke
+Menaam,Waadhoeke
+Slappeterp,Waadhoeke
+Ingelum,Waadhoeke
+Berltsum,Waadhoeke
+Wier,Waadhoeke
+Bitgum,Waadhoeke
+Bitgummole,Waadhoeke
+Minnertsga,Waadhoeke
+Stiens,Leeuwarden
+Feinsum,Leeuwarden
+Hijum,Leeuwarden
+Britsum,Leeuwarden
+Koarnjum,Leeuwarden
+Jelsum,Leeuwarden
+Gytsjerk,Tytsjerksteradiel
+Oentsjerk,Tytsjerksteradiel
+Mûnein,Tytsjerksteradiel
+Aldtsjerk,Tytsjerksteradiel
+Readtsjerk,Dantumadiel
+Alde Leie,Leeuwarden
+Nij Altoenae,Waadhoeke
+Marrum,Noardeast-Fryslân
+Hallum,Noardeast-Fryslân
+Westhoek,Waadhoeke
+St.-Annaparochie,Waadhoeke
+Vrouwenparochie,Waadhoeke
+Oudebildtzijl,Waadhoeke
+St.-Jacobiparochie,Waadhoeke
+Lekkum,Leeuwarden
+Miedum,Leeuwarden
+Snakkerburen,Leeuwarden
+Goutum,Leeuwarden
+Teerns,Leeuwarden
+Swichum,Leeuwarden
+Wirdum,Leeuwarden
+Wytgaard,Leeuwarden
+Wyns,Tytsjerksteradiel
+Dokkum,Noardeast-Fryslân
+Damwâld,Dantumadiel
+Rinsumageast,Dantumadiel
+Sibrandahûs,Dantumadiel
+Jannum,Noardeast-Fryslân
+Broeksterwâld,Dantumadiel
+De Falom,Dantumadiel
+Burdaard,Noardeast-Fryslân
+Wâlterswâld,Dantumadiel
+Driezum,Dantumadiel
+Aalsum,Noardeast-Fryslân
+Wetsens,Noardeast-Fryslân
+Metslawier,Noardeast-Fryslân
+Jouswier,Noardeast-Fryslân
+Oostrum,Noardeast-Fryslân
+Ee,Noardeast-Fryslân
+Engwierum,Noardeast-Fryslân
+Anjum,Noardeast-Fryslân
+Lioessens,Noardeast-Fryslân
+Morra,Noardeast-Fryslân
+Paesens,Noardeast-Fryslân
+Oosternijkerk,Noardeast-Fryslân
+Niawier,Noardeast-Fryslân
+Wierum,Noardeast-Fryslân
+Moddergat,Noardeast-Fryslân
+Nes,Noardeast-Fryslân
+Hantumhuizen,Noardeast-Fryslân
+Ternaard,Noardeast-Fryslân
+Hantumeruitburen,Noardeast-Fryslân
+Hantum,Noardeast-Fryslân
+Hiaure,Noardeast-Fryslân
+Holwerd,Noardeast-Fryslân
+Waaxens,Noardeast-Fryslân
+Brantgum,Noardeast-Fryslân
+Foudgum,Noardeast-Fryslân
+Raard,Noardeast-Fryslân
+Bornwird,Noardeast-Fryslân
+Hollum,Ameland
+Ballum,Ameland
+Nes,Ameland
+Buren,Ameland
+Schiermonnikoog,Schiermonnikoog
+Blije,Noardeast-Fryslân
+Ferwert,Noardeast-Fryslân
+Hegebeintum,Noardeast-Fryslân
+Ginnum,Noardeast-Fryslân
+Reitsum,Noardeast-Fryslân
+Lichtaard,Noardeast-Fryslân
+Jislum,Noardeast-Fryslân
+Wânswert,Noardeast-Fryslân
+Drachten,Smallingerland
+Kortehemmen,Smallingerland
+Boornbergum,Smallingerland
+De Wilgen,Smallingerland
+Smalle Ee,Smallingerland
+De Veenhoop,Smallingerland
+Oudega,Smallingerland
+Nijega,Smallingerland
+Opeinde,Smallingerland
+De Tike,Smallingerland
+Rottevalle,Smallingerland
+Drachtstercompagnie,Smallingerland
+Houtigehage,Smallingerland
+Surhuisterveen,Achtkarspelen
+Boelenslaan,Achtkarspelen
+Wijnjewoude,Opsterland
+Bakkeveen,Opsterland
+Beetsterzwaag,Opsterland
+Nij Beets,Opsterland
+Olterterp,Opsterland
+Ureterp,Opsterland
+Siegerswoude,Opsterland
+Frieschepalen,Opsterland
+Burgum,Tytsjerksteradiel
+Hurdegaryp,Tytsjerksteradiel
+Tytsjerk,Tytsjerksteradiel
+Ryptsjerk,Tytsjerksteradiel
+Noardburgum,Tytsjerksteradiel
+Jistrum,Tytsjerksteradiel
+Eastermar,Tytsjerksteradiel
+Sumar,Tytsjerksteradiel
+Garyp,Tytsjerksteradiel
+Earnewâld,Tytsjerksteradiel
+Suwâld,Tytsjerksteradiel
+Feanwâlden,Dantumadiel
+De Westereen,Dantumadiel
+Harkema,Achtkarspelen
+Surhuizum,Achtkarspelen
+Augustinusga,Achtkarspelen
+Buitenpost,Achtkarspelen
+Twijzel,Achtkarspelen
+Twijzelerheide,Achtkarspelen
+Kootstertille,Achtkarspelen
+Drogeham,Achtkarspelen
+Kollum,Noardeast-Fryslân
+Augsbuurt,Noardeast-Fryslân
+Kollumerpomp,Noardeast-Fryslân
+Oudwoude,Noardeast-Fryslân
+Westergeest,Noardeast-Fryslân
+Triemen,Noardeast-Fryslân
+Veenklooster,Noardeast-Fryslân
+Kollumerzwaag,Noardeast-Fryslân
+Zwagerbosch,Noardeast-Fryslân
+Roden,Noordenveld
+Lieveren,Noordenveld
+Roderesch,Noordenveld
+Alteveer,Noordenveld
+Steenbergen,Noordenveld
+Nieuw-Roden,Noordenveld
+Nietap,Noordenveld
+Leutingewolde,Noordenveld
+Foxwolde,Noordenveld
+Roderwolde,Noordenveld
+Peize,Noordenveld
+Norg,Noordenveld
+Langelo,Noordenveld
+Peest,Noordenveld
+Zuidvelde,Noordenveld
+Huis ter Heide,Noordenveld
+Westervelde,Noordenveld
+Veenhuizen,Noordenveld
+Een,Noordenveld
+Een-West,Noordenveld
+Leek,Westerkwartier
+Zevenhuizen,Westerkwartier
+Midwolde,Westerkwartier
+Tolbert,Westerkwartier
+Boerakker,Westerkwartier
+Marum,Westerkwartier
+Nuis,Westerkwartier
+Niebert,Westerkwartier
+Jonkersvaart,Westerkwartier
+De Wilp,Westerkwartier
+Assen,Assen
+Loon,Assen
+Beilen,Midden-Drenthe
+Hooghalen,Midden-Drenthe
+Hijken,Midden-Drenthe
+Oranje,Midden-Drenthe
+Spier,Midden-Drenthe
+Wijster,Midden-Drenthe
+Drijber,Midden-Drenthe
+Bovensmilde,Midden-Drenthe
+Smilde,Midden-Drenthe
+Hoogersmilde,Midden-Drenthe
+Westerbork,Midden-Drenthe
+Zuidveld,Midden-Drenthe
+Zwiggelte,Midden-Drenthe
+Eursinge,Midden-Drenthe
+Bruntinge,Midden-Drenthe
+Mantinge,Midden-Drenthe
+Balinge,Midden-Drenthe
+Garminge,Midden-Drenthe
+Witteveen,Midden-Drenthe
+Orvelte,Midden-Drenthe
+Elp,Midden-Drenthe
+Schoonloo,Aa en Hunze
+Grolloo,Aa en Hunze
+Vredenheim,Aa en Hunze
+Amen,Aa en Hunze
+Papenvoort,Aa en Hunze
+Marwijksoord,Aa en Hunze
+Nooitgedacht,Aa en Hunze
+Rolde,Aa en Hunze
+Nijlande,Aa en Hunze
+Eldersloo,Aa en Hunze
+Ekehaar,Aa en Hunze
+Geelbroek,Aa en Hunze
+Eleveld,Aa en Hunze
+Deurze,Aa en Hunze
+Balloo,Aa en Hunze
+Balloërveld,Aa en Hunze
+Gieten,Aa en Hunze
+Gasselte,Aa en Hunze
+Eext,Aa en Hunze
+Eexterzandvoort,Aa en Hunze
+Anderen,Aa en Hunze
+Gasteren,Aa en Hunze
+Anloo,Aa en Hunze
+Annen,Aa en Hunze
+Schipborg,Aa en Hunze
+Zuidlaren,Tynaarlo
+De Groeve,Tynaarlo
+Zuidlaarderveen,Tynaarlo
+Midlaren,Tynaarlo
+Noordlaren,Groningen
+Vries,Tynaarlo
+Tynaarlo,Tynaarlo
+Zeegse,Tynaarlo
+Oudemolen,Tynaarlo
+Taarlo,Tynaarlo
+Rhee,Assen
+Ter Aard,Assen
+Zeijerveld,Assen
+Zeijerveen,Assen
+Zeijen,Tynaarlo
+Ubbena,Assen
+De Punt,Tynaarlo
+Yde,Tynaarlo
+Winde,Tynaarlo
+Bunne,Tynaarlo
+Donderen,Tynaarlo
+Stadskanaal,Stadskanaal
+Gieterveen,Aa en Hunze
+Nieuwediep,Aa en Hunze
+Gasselternijveen,Aa en Hunze
+Gasselternijveenschemond,Aa en Hunze
+Nieuw-Buinen,Borger-Odoorn
+Drouwenermond,Borger-Odoorn
+Buinerveen,Borger-Odoorn
+Drouwenerveen,Borger-Odoorn
+Bronnegerveen,Borger-Odoorn
+Bronneger,Borger-Odoorn
+Buinen,Borger-Odoorn
+Borger,Borger-Odoorn
+Drouwen,Borger-Odoorn
+Westdorp,Borger-Odoorn
+Ellertshaar,Borger-Odoorn
+Ees,Borger-Odoorn
+Eesergroen,Borger-Odoorn
+Vlagtwedde,Westerwolde
+Bourtange,Westerwolde
+Sellingen,Westerwolde
+Ter Apel,Westerwolde
+Ter Apelkanaal,Westerwolde
+Zandberg,Borger-Odoorn
+Veelerveen,Westerwolde
+2e Exloërmond,Borger-Odoorn
+1e Exloërmond,Borger-Odoorn
+Exloërveen,Borger-Odoorn
+Musselkanaal,Stadskanaal
+Mussel,Stadskanaal
+Vledderveen,Stadskanaal
+Onstwedde,Stadskanaal
+Hoogezand,Midden-Groningen
+Kiel-Windeweer,Midden-Groningen
+Kropswolde,Midden-Groningen
+Foxhol,Midden-Groningen
+Westerbroek,Midden-Groningen
+Waterhuizen,Midden-Groningen
+Sappemeer,Midden-Groningen
+Meerstad,Groningen
+Harkstede GN,Groningen
+Kolham,Midden-Groningen
+Scharmer,Midden-Groningen
+Harkstede,Midden-Groningen
+Woudbloem,Midden-Groningen
+Froombosch,Midden-Groningen
+Slochteren,Midden-Groningen
+Lageland GN,Groningen
+Lageland,Midden-Groningen
+Luddeweer,Midden-Groningen
+Overschild,Midden-Groningen
+Schildwolde,Midden-Groningen
+Hellum,Midden-Groningen
+Siddeburen,Midden-Groningen
+Steendam,Midden-Groningen
+Borgercompagnie,Veendam
+Borgercompagnie,Midden-Groningen
+Tripscompagnie,Midden-Groningen
+Noordbroek,Midden-Groningen
+Zuidbroek,Midden-Groningen
+Veendam,Veendam
+Wildervank,Veendam
+Muntendam,Midden-Groningen
+Meeden,Midden-Groningen
+Annerveenschekanaal,Aa en Hunze
+Oud Annerveen,Aa en Hunze
+Spijkerboor,Aa en Hunze
+Nieuw Annerveen,Aa en Hunze
+Eexterveen,Aa en Hunze
+Eexterveenschekanaal,Aa en Hunze
+Alteveer,Stadskanaal
+Nieuwe Pekela,Pekela
+Oude Pekela,Pekela
+Winschoten,Oldambt
+Heiligerlee,Oldambt
+Westerlee,Oldambt
+Scheemda,Oldambt
+Midwolda,Oldambt
+Oostwold,Oldambt
+Finsterwolde,Oldambt
+Blauwestad,Oldambt
+Beerta,Oldambt
+Nieuw Beerta,Oldambt
+Drieborg,Oldambt
+Bad Nieuweschans,Oldambt
+Bellingwolde,Westerwolde
+Oudeschans,Westerwolde
+Blijham,Westerwolde
+Wedde,Westerwolde
+Vriescheloo,Westerwolde
+Groningen,Groningen
+Matsloot,Noordenveld
+Haren Gn,Groningen
+Onnen,Groningen
+Glimmen,Groningen
+Eelde,Tynaarlo
+Paterswolde,Tynaarlo
+Eelderwolde,Tynaarlo
+Sauwerd,Het Hogeland
+Wetsinge,Het Hogeland
+Adorp,Het Hogeland
+Bedum,Het Hogeland
+Noordwolde,Het Hogeland
+Zuidwolde,Het Hogeland
+Ten Boer,Groningen
+Ten Post,Groningen
+Winneweer,Groningen
+Lellens,Groningen
+Woltersum,Groningen
+Sint Annen,Groningen
+Thesinge,Groningen
+Garmerwolde,Groningen
+Zuidhorn,Westerkwartier
+Noordhorn,Westerkwartier
+Briltil,Westerkwartier
+Enumatil,Westerkwartier
+Oldekerk,Westerkwartier
+Niekerk,Westerkwartier
+Noordwijk,Westerkwartier
+Lucaswolde,Westerkwartier
+Lettelbert,Westerkwartier
+Oostwold,Westerkwartier
+Aduard,Westerkwartier
+Den Horn,Westerkwartier
+Den Ham,Westerkwartier
+Niezijl,Westerkwartier
+Grijpskerk,Westerkwartier
+Pieterzijl,Westerkwartier
+Visvliet,Westerkwartier
+Burum,Noardeast-Fryslân
+Warfstermolen,Noardeast-Fryslân
+Munnekezijl,Noardeast-Fryslân
+Grootegast,Westerkwartier
+Sebaldeburen,Westerkwartier
+Doezum,Westerkwartier
+Kornhorn,Westerkwartier
+Opende,Westerkwartier
+Lutjegast,Westerkwartier
+Stroobos,Achtkarspelen
+Gerkesklooster,Achtkarspelen
+Kommerzijl,Westerkwartier
+Oldehove,Westerkwartier
+Niehove,Westerkwartier
+Lauwerzijl,Westerkwartier
+Saaksum,Westerkwartier
+Ezinge,Westerkwartier
+Feerwerd,Westerkwartier
+Garnwerd,Westerkwartier
+Appingedam,Appingedam
+Krewerd,Delfzijl
+Holwierde,Delfzijl
+Bierum,Delfzijl
+Losdorp,Delfzijl
+Godlinze,Delfzijl
+Spijk,Delfzijl
+Oosterwijtwerd,Loppersum
+Leermens,Loppersum
+Eenum,Loppersum
+Zeerijp,Loppersum
+'t Zandt,Loppersum
+Wirdum,Loppersum
+Garrelsweer,Loppersum
+Loppersum,Loppersum
+Stedum,Loppersum
+Westeremden,Loppersum
+Garsthuizen,Loppersum
+Startenhuizen,Loppersum
+Startenhuizen,Het Hogeland
+Delfzijl,Delfzijl
+Farmsum,Delfzijl
+Meedhuizen,Delfzijl
+Tjuchem,Midden-Groningen
+'t Waar,Oldambt
+Nieuw Scheemda,Oldambt
+Nieuwolda,Oldambt
+Wagenborgen,Delfzijl
+Woldendorp,Delfzijl
+Termunten,Delfzijl
+Termunterzijl,Delfzijl
+Borgsweer,Delfzijl
+Winsum,Het Hogeland
+Baflo,Het Hogeland
+Tinallinge,Het Hogeland
+Rasquert,Het Hogeland
+Den Andel,Het Hogeland
+Saaxumhuizen,Het Hogeland
+Onderdendam,Het Hogeland
+Mensingeweer,Het Hogeland
+Schouwerzijl,Het Hogeland
+Warfhuizen,Het Hogeland
+Wehe-den Hoorn,Het Hogeland
+Leens,Het Hogeland
+Zuurdijk,Het Hogeland
+Eenrum,Het Hogeland
+Pieterburen,Het Hogeland
+Westernieland,Het Hogeland
+Ulrum,Het Hogeland
+Niekerk,Het Hogeland
+Houwerzijl,Het Hogeland
+Zoutkamp,Het Hogeland
+Vierhuizen,Het Hogeland
+Lauwersoog,Het Hogeland
+Kloosterburen,Het Hogeland
+Hornhuizen,Het Hogeland
+Eemshaven,Het Hogeland
+Uithuizen,Het Hogeland
+Uithuizermeeden,Het Hogeland
+Roodeschool,Het Hogeland
+Oudeschip,Het Hogeland
+Oosternieland,Het Hogeland
+Oldenzijl,Het Hogeland
+Zijldijk,Loppersum
+Usquert,Het Hogeland
+Warffum,Het Hogeland
+Middelstum,Loppersum
+Huizinge,Loppersum
+Westerwijtwerd,Loppersum
+Toornwerd,Loppersum
+Kantens,Het Hogeland
+Eppenhuizen,Het Hogeland
+Zandeweer,Het Hogeland
+Rottum,Het Hogeland
+Stitswerd,Het Hogeland
